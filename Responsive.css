@@ -1,0 +1,30 @@
+@media  (max-width:768px) {
+    .card1 {
+        width: 1500px;
+    }
+
+    .card2 {
+        width: 1500px;
+    }
+
+    .card3 {
+        width: 1500px;
+    }
+
+    .container img {
+        justify-content: space-between;
+    }
+
+    .free2 img {
+        margin-left: 100px;
+    }
+
+    .card5 {
+        width: 1500px;
+    }
+    
+    .container {
+        width: 1500px;
+
+    }
+}
